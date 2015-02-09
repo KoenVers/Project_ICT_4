@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Berten\Desktop\ProjectICT4\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Berten\Desktop\ProjectICT4\app\build\intermediates\pre-dexed\debug\classes-1a104418f8ba215130c03b91b44daa2f24be0eea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Berten\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Berten\Desktop\ProjectICT4\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-03a2ca863d1816b272f13f010efa0b83bd704c9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Berten\Desktop\ProjectICT4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Berten\Desktop\ProjectICT4\app\build\intermediates\pre-dexed\debug\classes-8d06e87d631b281cb2e3838a0faac7a647638927.jar" />
+    </item>
+    <item
+        jar="C:\Users\Berten\Desktop\ProjectICT4\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Berten\Desktop\ProjectICT4\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9e8e1e6e100645d9f2cc5d601ee6b738cf217cd8.jar" />
+    </item>
+
+</items>
